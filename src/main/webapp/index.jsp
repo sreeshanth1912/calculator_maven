@@ -85,6 +85,10 @@
   function clearDisplay() {
     display.value = '';
   }
+  function clearDisplay() {
+    display.value = '';
+  }
+
 
   function calculate() {
     try {
